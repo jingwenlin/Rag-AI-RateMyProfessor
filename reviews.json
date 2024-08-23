@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "An amazing professor who explains concepts clearly."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Great lectures, but sometimes difficult to follow."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "The course was okay, but the exams were tough."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "The course material was overwhelming."
+      },
+      {
+        "professor": "Dr. James Wilson",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Incredible teacher with engaging lectures."
+      },
+      {
+        "professor": "Dr. Jessica Miller",
+        "subject": "History",
+        "stars": 4,
+        "review": "Very knowledgeable, but the course load is heavy."
+      },
+      {
+        "professor": "Dr. William Moore",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Average teaching, but helpful office hours."
+      },
+      {
+        "professor": "Dr. Linda Taylor",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "A thought-provoking course with excellent discussions."
+      },
+      {
+        "professor": "Dr. Robert Anderson",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Well-structured course with interesting readings."
+      },
+      {
+        "professor": "Dr. Mary Thomas",
+        "subject": "Sociology",
+        "stars": 2,
+        "review": "Lectures were dry, and assignments were unclear."
+      },
+      {
+        "professor": "Dr. Charles Jackson",
+        "subject": "Engineering",
+        "stars": 5,
+        "review": "Top-notch professor with real-world examples."
+      },
+      {
+        "professor": "Dr. Patricia Harris",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Engaging content but can be a bit fast-paced."
+      },
+      {
+        "professor": "Dr. Richard Martin",
+        "subject": "Art History",
+        "stars": 3,
+        "review": "Interesting subject, but lectures were monotonous."
+      },
+      {
+        "professor": "Dr. Barbara Lee",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Passionate and inspiring lecturer."
+      },
+      {
+        "professor": "Dr. Thomas Young",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Fascinating material, but exams are tough."
+      },
+      {
+        "professor": "Dr. Nancy Walker",
+        "subject": "Music",
+        "stars": 3,
+        "review": "Enjoyable course but could be better organized."
+      },
+      {
+        "professor": "Dr. Paul Hill",
+        "subject": "Theater",
+        "stars": 5,
+        "review": "A lively and engaging professor."
+      },
+      {
+        "professor": "Dr. Karen Scott",
+        "subject": "Education",
+        "stars": 4,
+        "review": "Helpful and caring, but lectures can be slow."
+      },
+      {
+        "professor": "Dr. Steven Green",
+        "subject": "Environmental Science",
+        "stars": 3,
+        "review": "Good material, but not very engaging."
+      },
+      {
+        "professor": "Dr. Laura Adams",
+        "subject": "Nursing",
+        "stars": 5,
+        "review": "Very supportive and knowledgeable."
+      }
+    ]
+  }
+  
